@@ -1,0 +1,13 @@
+# Blender: respaldos automáticos
+*.blend1
+*.blend2
+*.blend[0-9]*
+
+# Comprimidos
+*.zip
+*.rar
+*.7z
+
+# Sistema
+Thumbs.db
+.DS_Store
